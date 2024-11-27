@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/vaibhavrajawat" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vaibhavrajawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/chordncode" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/vaibhavrajawat" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vaibhavrajawat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/chordncode" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/vaibhavrajawat" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">👋 Hi, I'm Vaibhav Rajawat — a passionate developer who loves building solutions with JavaScript, Node.js, and React.js.
 <br>
@@ -38,6 +38,13 @@ Let's collaborate and create something amazing!</h3>**
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="MongoDB" style="margin-right: 4px"></div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vaibhavrajawat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vaibhavrajawat&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
  **<h3 align="left">GitHub Stats</h3>**
 
